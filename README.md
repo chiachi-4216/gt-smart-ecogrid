@@ -1,1 +1,1 @@
-# gt-smart-ecogrid000
+# gt-smart-ecogrid
